@@ -1,4 +1,3 @@
-
 <br clear="both">
 
 <div data-importer="image" align="center">
@@ -7,11 +6,11 @@
 
 ###
 
-<h2 data-importer="text" align="center">Ola!, que bom te ver.</h2>
+<h2 data-importer="text" align="center">Ola!, Eu sou Stefany.</h2>
 
 ###
 
-<p data-importer="text" align="left">Sou Stefany,  back-end developer, moro em Maceio AL. <br>Atualmente estou desenvolvendo em python!!</p>
+<p data-importer="text" align="left">Graduanda em análise e desenvolvimento de sistemas. Possuo experiência prática com java, lógica de programação e arrayList.  Atualmente, venho aprofundando meus conhecimentos em python. Gosto de aprender na prática, desenvolver projetos e transformar ideias em soluções funcionais, buscando evoluir constantemente na resolução de problemas e em escrever codigos organizados.</p>
 
 ###
 
@@ -19,6 +18,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
 </div>
 
 ###
