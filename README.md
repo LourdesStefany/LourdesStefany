@@ -1,25 +1,19 @@
-<br clear="both">
+# Olá! 👋 Eu sou Stefany
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://github.com/LourdesStefany/LourdesStefany/blob/d55d7147beb4e1399d9bd0642a1fae4b4d67b252/github-header-banner%20(3).png"  />
-</div>
+🎓 Graduanda em **Análise e Desenvolvimento de Sistemas**, com experiência prática em **Java, lógica de programação e ArrayList**. Atualmente, venho aprofundando meus conhecimentos em **Python**.
 
-###
+💻 Gosto de **aprender na prática, desenvolver projetos e transformar ideias em soluções funcionais**, buscando evoluir constantemente na **resolução de problemas e na escrita de código organizado**.
 
-<h2 data-importer="text" align="center">Ola!, Eu sou Stefany.</h2>
+🔐 Atualmente, desenvolvi um **Sistema de Cadastro e Login em Python**, aplicando funções, listas, dicionários, validação de dados, condicionais e loops.
 
-###
+🤝 Valorizo o **trabalho em equipe, a colaboração e o aprendizado contínuo**.
 
-<p data-importer="text" align="left">Graduanda em análise e desenvolvimento de sistemas. Possuo experiência prática com java, lógica de programação e arrayList.  Atualmente, venho aprofundando meus conhecimentos em python. Gosto de aprender na prática, desenvolver projetos e transformar ideias em soluções funcionais, buscando evoluir constantemente na resolução de problemas e em escrever codigos organizados.</p>
+## 🛠️ Tecnologias
 
-###
-
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="55" height="55" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="55" height="55" alt="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
+</p>
