@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./github-header-banner%20(3).png" width="100%" alt="Banner">
+</p>
+
 # Olá! 👋 Eu sou Stefany
 
 🎓 Graduanda em **Análise e Desenvolvimento de Sistemas**, com experiência prática em **Java, lógica de programação e ArrayList**. Atualmente, venho aprofundando meus conhecimentos em **Python**.
